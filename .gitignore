@@ -1,0 +1,15 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Datasets (large, and often have their own license)
+data/*
+!data/README.md
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
